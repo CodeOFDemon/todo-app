@@ -6,10 +6,10 @@ A responsive and minimal ToDo list manager built with React, Tailwind CSS, and `
 ## 📸 App Previews
 
 ### 🖼️ Main Interface
-![App Screenshot](./src/public/Screenshot-1.png)
+![App Screenshot](./src/public/Screenshot%201.png)
 
 ### 🧾 Task View / Alternate State
-![App Screenshot](./src/public/Screenshot-2.png)
+![App Screenshot](./src/public/Screenshot%202.png)
 
 ---
 
